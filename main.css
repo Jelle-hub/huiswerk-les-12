@@ -1,0 +1,74 @@
+    header {
+        height: 100px;
+        width: 913px;
+        background-color: red;
+    }
+
+    footer {
+        height: 100px;
+        width: 913px;
+        background-color: blue;
+    }
+    #aapid {
+        background-color: red;
+    }
+    #nootid {
+        background-color: orange;
+
+    }
+    #miesid {
+        background-color: green;
+
+    }
+    #teunid {
+        background-color: purple;
+
+    }
+    #afb_kleur_1 {
+        background-color: yellow;
+
+    }
+    #afb_kleur_2 {
+        background-color: pink;
+
+    }
+    #afb_kleur_3 {
+        background-color: gray;
+
+    }
+    #afb_kleur_4 {
+        background-color:  lightseagreen;
+
+    }
+    #appelid {
+        background-color: cyan;
+
+    }
+    #peerid {
+        background-color: brown;
+
+    }
+    #kersid {
+        background-color: coral;
+
+    }
+    #limoenid {
+        background-color: tomato;
+
+    }
+    #afb_kleur_5 {
+        background-color: violet;
+
+    }
+    #afb_kleur_6 {
+        background-color: magenta;
+
+    }
+    #afb_kleur_7 {
+        background-color: beige;
+
+    }
+    #afb_kleur_8 {
+        background-color: cadetblue;
+
+    }
